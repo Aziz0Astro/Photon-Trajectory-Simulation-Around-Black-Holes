@@ -9,7 +9,6 @@ This project simulates photon trajectories around a Schwarzschild black hole. It
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -62,7 +61,4 @@ To run this project, you'll need Python and a few libraries. Follow these steps 
 
 Contributions to this project are welcome. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request with a clear explanation of your modifications. If you encounter any issues or have suggestions, feel free to open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
